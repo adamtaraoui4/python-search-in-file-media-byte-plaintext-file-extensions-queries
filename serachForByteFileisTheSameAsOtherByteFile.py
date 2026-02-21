@@ -7,12 +7,13 @@ Founder's place of birth : casablanca
 Founder's company's name : zoom business intelligence
 Founder's program's patent : GNU-GPG
 Founder's program's description : 
-Program to localize a query between 
+Program to localize a media(byte) query between 
 files in a certain concrete directory or an abstract one.
 If the query in a certain file is found, 
 the found query is given in the certain line 
 of the concrete directory path of the file
 file byte the same as another byte file.
+(a file of a song or a picture to find it back in a certain directory)
 """
 import os # importing the operating system
 filesEndsWithDotTxtOrDotLogExtension = [] # initialzing a list with a name to fill it out
@@ -55,3 +56,4 @@ else: # elsewhere from the last condition
 ###########################################################
 ###########################################################
 ###########################################################
+
