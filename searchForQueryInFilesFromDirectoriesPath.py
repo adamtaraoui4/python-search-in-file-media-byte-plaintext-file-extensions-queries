@@ -12,6 +12,8 @@ files in a certain concrete directory or an abstract one.
 If the query in a certain file is found, 
 the found query is given in the certain line 
 of the concrete directory path of the file.
+(an example of : to find a smaal piece of text in different plaintext files, 
+returning back the lines numbers where the plaintext is found, or not found as result if the query is not found)
 """
 import os # importing the operating system
 filesEndsWithDotTxtOrDotLogExtension = [] # initialzing a list with a name to fill it out
@@ -52,3 +54,4 @@ else: # elsewhere from the last condition
 ###########################################################
 ###########################################################
 ###########################################################
+
