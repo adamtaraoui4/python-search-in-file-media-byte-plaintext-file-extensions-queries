@@ -15,6 +15,7 @@ of the concrete directory path of the file
 small byte file in big byte file (example of : 
 small picture in a big picture, 
 small song in a big song compilation).
+(an example of : to find a smaal picture in a big picture, a small song in a big song compilation or a small video fragment in a big video fragment)
 """
 import os # importing the operating system
 filesEndsWithDotTxtOrDotLogExtension = [] # initialzing a list with a name to fill it out
@@ -57,3 +58,4 @@ else: # elsewhere from the last condition
 ###########################################################
 ###########################################################
 ###########################################################
+
