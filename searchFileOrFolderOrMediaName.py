@@ -7,7 +7,7 @@ Founder's place of birth : casablanca
 Founder's company's name : zoom business intelligence
 Founder's program's patent : GNU-GPG
 Founder's program's description : 
-Program to localize a file name a directory name between 
+Program to localize a file name of a directory name between 
 a list of files and directories in a certain concrete directory or an abstract one.
 If the query is found in a list of file or directories certain file is found, 
 the found query is given in the certain line 
@@ -62,3 +62,4 @@ else:
 ###########################################################
 ###########################################################
 ###########################################################
+
