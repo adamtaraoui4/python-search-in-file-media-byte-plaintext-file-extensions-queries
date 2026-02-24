@@ -27,7 +27,7 @@ def main(): # defining a main function to use
                 xMinutes=0 # setting the minutes to 0
             xDays+=1 # after 24 hours, incrementing the days by 1
             xHours=0 # setting the hours to 0
-main()
+main() # calling the main function/method to start use the program.
  
          
     
