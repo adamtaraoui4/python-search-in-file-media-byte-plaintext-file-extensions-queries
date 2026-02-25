@@ -40,6 +40,27 @@ def searchText():  #search text function/method
 #in filesystem build, databases and remembers 
 #automatically fases of the program, has his own 
 #agenda and for example working as a server.
+#An example real life example : After a search 
+#of plaintext seinding a processus command 
+#automatically to send an email, get manufacturer, 
+#get a job/work done without any extra third party help, 
+#being fully independent in the job.
+#On Python : like webapp working with Flask as a server
+#(or a python CLI application working forever as a serve, 
+#or any other programming language having the same 
+#options who may work as a server), 
+#checking every employee if his coming to the his job/work 
+#in time, the program described as manufacture, paying 
+#the employees in time, delegated by all the tasks of 
+#feedbacks by for example an email system, looking for more 
+#employees if it's needed and recruting them, paying the taxes 
+#at the end of the year or delegating it to the correct employee 
+#and always checking back the work is done, by failure of 
+#insolvency looking for the best options for the manufacture 
+#to get back solvency by changing extra valuta of the prices or 
+#selling the manufacture in time for another third party company 
+#or own company without debts for lesser failure of incolvency 
+#problems.
 def AddSearchCLIAbstractConcreteNeuralNetwork(): #CLI program
     print "--------------start CLI Network Program --------------"
     while 1:
