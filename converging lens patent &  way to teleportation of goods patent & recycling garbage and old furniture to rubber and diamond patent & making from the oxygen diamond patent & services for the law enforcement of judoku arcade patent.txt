@@ -1,0 +1,122 @@
+15:03 09/03/2026
+----------------
+
+Moroccan national id number : AB.64.52.76
+
+deposition
+----------
+
+How about the spoken primary material refurbish optical sensor 
+hardware 3d printer, may work:
+
+Converging lens of 4 centimeter length and 4 centimeter diameter
+
+Only 16 converging lens needed : 4 x 3 = 12 = 
+3,3,3,3 after each other as a tube, 4 x 1 pivous 
+to set up the temperature.
+
+Small example with 4 lens : 3 as a tube : one lens pivou :
+-----------------------------------------------------
+
+fourth lens is up : temperature is higher.
+
+fourth lens is down : cooling procedure.
+
+example :
+---------
+
++ : stands for a converging lens
+
+   +
++++		X
+
+example :
+---------
+
++ : stands for a converging lens
+
++++		X
+   +
+
+With 16 lens
+Converging lens of setting a higher temperature
+
+4 x 4 matrix
+4 x 3 as the base
+with 4 pivous
+4 x 1 as the attach and the switch of the temperature high & low.
+Pivous up for a higher temperature, pivous down for a cold temperature.
+
+- horizontal vieuw
+- + : stands for 2 converging lens each one 
+after the other in parallel.
+- X : as the primary material.
+
+Diagram when using the pivous up for warm temperature :
+-------------------------------------------------------
+
+	+
++++ +	
++++ 	X
+
+Diagram when using the pivous down for cold temperature :
+---------------------------------------------------------
+
++++
++++ +	X
+    +
+	 
+Diagram using the pivous down for cold temperature :	 
+----------------------------------------------------
+
+	+
++++		X
++++
+	+
+
+-----------------------------------
+
+Studying the temperature 
+of a primary material is getting his 
+temperature from a temperature motion sensor.
+or by studying the material by the same 
+lens perimeter of the material sensorizing the 
+primary material coldest is always 
+the highest possible needed and then stopping 
+in time, when setting the primary material 
+on higher or lower temperature to not 
+harm the primary material.
+
+technically : sensorizing the temperature of a primary 
+	mmaterial by setting the lens as the same temperature 
+	of the primary material needed
+	for example : when rubber is needed as primary 
+	material setting the stop of the highest temperature, 
+	the lens may go high to, to the coldest temperature 
+	as described by the second two lines to not lose 
+	the primary material.
+	(every material or primary material 
+	has a unique temperature)
+	(the primary material cold temperature 
+	is the hightest temperature we may set by recycling 
+	to it without losing it.)
+	for example : diamond is the same temperature as 
+	cold diamond to not loose the material.
+
+With thid technology we teleport 
+any goods not human beings
+(or beings in general) 
+for their safety.
+
+We may set out every weaponry on earth for a peaceful environment.
+
+We may develop a durable law enforcement system
+(with judoku arcade through/via optical robots)
+
+Sincerely,
+Cordially,
+----------
+
+Adam Taraoui
+
+Moroccan national id number : AB.64.52.76
