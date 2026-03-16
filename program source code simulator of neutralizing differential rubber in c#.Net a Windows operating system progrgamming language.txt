@@ -1,0 +1,67 @@
+/* Program's description : Temperature of rubber through readen data by a multispectral sensor and neutralized by the coldest degree of temperature -1 to -4 simulator.
+ * Founder's name : adam taraoui
+ * Moroccan national id number : AB.64.52.76
+ * Program's patent : GNU-GPG
+ * Program's patent's description : GNU-GPG patent may be used by any other devlopers, used for free or commercialized without any judicial concern or issue.
+ */
+//We may use a multispectral sensor to get and set Celsius/fahrenheit rubber consortium data
+;
+long xUniverse = 1000; //example of the sum of the points of the universe is 1000.
+long[] universePointsTemperatureDegree = new long[xUniverse]; //example of the universe points-atoms in an array
+long coldestTemperatureToNeutralizeExtrraDifferentialOfRubber = -4; //variable of coldest point possible
+
+
+//for loop to generate random(from 0 to 100) temperature points simulation, putting them in an array
+//method generatingRandomDegreesInTheSimulatorOfTheUniverse(xUniverse, universePointsTemperatureDegree) to generate random degrees in the simulation of the universe.
+static void generatingRandomDegreesInTheSimulatorOfTheUniverse(long xUniverse, long[] universePointsTemperatureDegree) { 
+Random randomClassInstance = new Random();
+long randomNumberGeneration;
+for (long i =0;i<xUniverse;i++)
+    {
+    randomNumberGeneration = randomClassInstance.Next(100);
+    universePointsTemperatureDegree[i] = randomNumberGeneration;
+    }
+}
+
+//for loop method to print the elements of an array by their index
+//method to print an array
+static void printTemperatureOfThePointsOfTheUniverse(long xUniverse, long[] universePointsTemperatureDegree)
+{
+    for (long i = 0; i < xUniverse; i++)
+    {
+        Console.Write(universePointsTemperatureDegree[i] + " ");
+    }
+    Console.WriteLine("");
+}
+
+
+//for loop to neutralize the random temperature points simulated in the simulator, neutralizing the points upper than 4 degrees -4
+//method generatingRandomDegreesInTheSimulatorOfTheUniverse(xUniverse, universePointsTemperatureDegree) to generate random degrees in the simulation of the universe.
+static void neutralizingTheDifferentialRubber(long xUniverse, long[] universePointsTemperatureDegree, long coldestTemperatureToNeutralizeExtrraDifferentialOfRubber)
+{
+    for (long i = 0; i < xUniverse; i++)
+    {
+        if(universePointsTemperatureDegree[i] > 4)
+        {
+            universePointsTemperatureDegree[i] = -4;
+        }
+    }
+}
+
+//program main section for using the methods
+Console.WriteLine("------------------------------------------BBEGIN OF THE PROGRAM ----------------------------");
+Console.WriteLine("Program simulator of neuttralization of the diffferential rubber from the environment norm :");
+Console.WriteLine("--------------------------------------------------------------------------------------------");
+Console.WriteLine("Using the method generatingRandomDegreesInTheSimulatorOfTheUniverse(xUniverse,universePointsTemperatureDegree) to generate random degrees in the simulation of the universe.");
+generatingRandomDegreesInTheSimulatorOfTheUniverse(xUniverse,universePointsTemperatureDegree);
+Console.WriteLine("--------------------------------------------------------------------------------------------");
+Console.WriteLine("Printing the points of the universe after the simulator's random generation of the degrees of the points :");
+printTemperatureOfThePointsOfTheUniverse(xUniverse, universePointsTemperatureDegree);
+Console.WriteLine("--------------------------------------------------------------------------------------------");
+Console.WriteLine("Using the method neutralizingTheDifferentialRubber(xUniverse,universePointsTemperatureDegree,coldestTemperatureToNeutralizeExtrraDifferentialOfRubber) to neutralize the random degrees in the simulation of the universe.");
+neutralizingTheDifferentialRubber(xUniverse,universePointsTemperatureDegree,coldestTemperatureToNeutralizeExtrraDifferentialOfRubber);
+Console.WriteLine("--------------------------------------------------------------------------------------------");
+Console.WriteLine("Printing the points of the universe after the simulator's neutralization of the degrees of the points :");
+printTemperatureOfThePointsOfTheUniverse(xUniverse, universePointsTemperatureDegree);
+Console.WriteLine("--------------------------------------------------------------------------------------------");
+Console.WriteLine("------------------------------------------END OF THE PROGRAM -------------------------------");
